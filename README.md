@@ -21,7 +21,6 @@
 ## 🛠️ Technologies Used
 
 | Technology | Description |
-|---|---|
 | Python | Backend Programming |
 | Flask | Web Framework |
 | HTML | Web Page Structure |
